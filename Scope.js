@@ -22,3 +22,16 @@ console.log(c)
 //as per block scope var avriable shouldn't be accessed outside the scope but it is still accessible 
 // thus we used let and const 
 //here a =300 is in global scope
+
+
+//+++++++++++++ Two Types of Function Declaration++++++++++++++++++++
+sayHello()
+function sayHello(){
+    console.log("Hello")
+}
+//above one is baisc function declaration and calling 
+const sayHi= function(){
+    console.log("Hi")
+}
+sayHi()
+//above one is function declaration with expression 
