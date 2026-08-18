@@ -1,2 +1,2 @@
 # Js-practice
-this repository is for codes i am practicing for getting into JavaScript
+This repository is for codes I am practicing for getting into JavaScript
